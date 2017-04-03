@@ -5,7 +5,7 @@ Simple input mask lib for vue.js based on [PureMask.js](https://github.com/romul
 
 ## Installation
 
-This version requires Vue 2.X. If you are looking for Vue 1.X, [check it here](https://github.com/probil/v-mask/tree/vue-1.x).
+This version requires Vue 2.X.
 
   `npm install vue-mask-directive`
 
