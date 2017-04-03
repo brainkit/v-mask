@@ -53,11 +53,6 @@ You can run tests by typing this command in your console:
 npm test
 ```
 
-[Nightwatch](http://nightwatchjs.org/) is used of E2E testing.
-
-Check the [v-mask--demo](https://github.com/probil/v-mask--demo) repo for more details
-
-
 ## Contributing
 
 PR is welcome!
