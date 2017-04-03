@@ -9,16 +9,16 @@ Simple input mask lib for vue.js based on [PureMask.js](https://github.com/romul
 
 This version requires Vue 2.X. If you are looking for Vue 1.X, [check it here](https://github.com/probil/v-mask/tree/vue-1.x).
 
-  `npm install vue-mask`
+  `npm install vue-mask-directive`
 
 ## Usage
 
 ```javascript
 import Vue     from 'vue'
-import VueMask from 'vue-mask'
+import VueMaskDirective from 'vue-mask-directive'
 
 /** Activate vue.js plugins **/
-Vue.use(VueMask);
+Vue.use(VueMaskDirective);
 ```
 
 Now you are ready to use it in the code!
