@@ -44,7 +44,7 @@ function updateValue(el) {
       mask = _el$dataset.mask;
 
 
-  if (force || value && value !== previousValue && value.length > previousValue.length) {
+  if (previousValue.length && force || value && value !== previousValue && value.length > previousValue.length) {
     el.value = (0, _format2.default)(value, mask);
     (0, _utils.trigger)(el, 'input');
   }
