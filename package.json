@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/probil/v-mask.git"
+    "url": "git+https://github.com/brainkit/v-mask"
   },
   "keywords": [
     "vue.js",
@@ -20,9 +20,9 @@
   "author": "Max Lyashuk <m_lyashuk@ukr.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/probil/v-mask/issues"
+    "url": "https://github.com/brainkit/v-mask/issues"
   },
-  "homepage": "https://github.com/probil/v-mask#readme",
+  "homepage": "https://github.com/brainkit/v-mask#readme",
   "devDependencies": {
     "babel-core": "^6.0.0",
     "babel-plugin-transform-runtime": "^6.0.0",
