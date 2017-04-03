@@ -3,8 +3,6 @@ Vue input mask
 
 Simple input mask lib for vue.js based on [PureMask.js](https://github.com/romulobrasil/PureMask.js)
 
-**[Demo](https://rawgit.com/probil/v-mask--demo/master/dist/index.html)**
-
 ## Installation
 
 This version requires Vue 2.X. If you are looking for Vue 1.X, [check it here](https://github.com/probil/v-mask/tree/vue-1.x).
