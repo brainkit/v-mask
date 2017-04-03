@@ -1,6 +1,6 @@
 {
   "name": "vue-mask",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Simple input mask lib for vue.js",
   "main": "dist/index.js",
   "scripts": {
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brainkit/v-mask"
+    "url": "git+https://github.com/brainkit/vue-mask"
   },
   "keywords": [
     "vue.js",
     "vue",
     "vue-mask"
   ],
-  "author": "Max Lyashuk <m_lyashuk@ukr.net>",
+  "author": "Sergey Lebedev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brainkit/v-mask/issues"
+    "url": "https://github.com/brainkit/vue-mask/issues"
   },
-  "homepage": "https://github.com/brainkit/v-mask#readme",
+  "homepage": "https://github.com/brainkit/vue-mask#readme",
   "devDependencies": {
     "babel-core": "^6.0.0",
     "babel-plugin-transform-runtime": "^6.0.0",
